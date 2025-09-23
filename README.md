@@ -3,7 +3,7 @@ This is an alchemy game developed game by a team of little monsters.
 
 There are our six members:
 
-Audio engineer：   花叶晚庭
+Audio engineer：   花夜晚庭
 
 Graphic design：   狸猫
 
